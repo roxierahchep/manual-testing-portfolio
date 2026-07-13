@@ -58,4 +58,4 @@ Each artifact reflects how I approach quality assurance throughout the Software 
 
 ---
 
-Thank you for visiting my Manual Testing Portfolio!#
+Thank you for visiting my Manual Testing Portfolio!
