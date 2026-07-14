@@ -54,11 +54,14 @@ This repository contains professionally prepared QA artifacts including:
 
 - BUG-001 – Login Button Remains Disabled After Entering Valid Credentials
 
+### 🔄 Regression Testing
+
+- Login Regression Checklist
+
 ---
 
 ## 🚧 Coming Next
 
-- Login Regression Checklist
 - Login Test Summary Report
 - Requirements Traceability Matrix (RTM)
 - Registration Module Test Plan
@@ -89,6 +92,28 @@ It demonstrates my ability to:
 - Document software defects
 - Execute regression testing
 - Produce professional QA deliverables
+
+---
+
+# 📌 Current Repository Structure
+
+```text
+manual-testing-portfolio/
+
+├── README.md
+│
+├── Test-Plans/
+│     └── Login-Module-Test-Plan.md
+│
+├── Test-Cases/
+│     └── Login-Test-Cases.md
+│
+├── Bug-Reports/
+│     └── BUG-001-Login-Button-Remains-Disabled.md
+│
+└── Regression-Testing/
+      └── Login-Regression-Checklist.md
+```
 
 ---
 
