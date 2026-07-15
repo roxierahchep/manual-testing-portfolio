@@ -58,17 +58,19 @@ This repository contains professionally prepared QA artifacts including:
 
 - Login Regression Checklist
 
+### 📊 Test Summary Reports
+
+- Login Test Summary Report
+
 ---
 
 ## 🚧 Coming Next
 
-- Login Test Summary Report
 - Requirements Traceability Matrix (RTM)
 - Registration Module Test Plan
 - Registration Module Test Cases
-- Shopping Cart Test Plan
-- Shopping Cart Test Cases
 - Additional Bug Reports
+- Exploratory Testing Notes
 
 ---
 
